@@ -1,6 +1,6 @@
-title: Welcome to PtychoFlow!
+title: PtychoFlow
 logo: /assets/img/logo.png
-description: Ptychography reconstruction framework built on TensorFlow.
+description: "PtychoFlow: <br/> a ptychography framework built on TensorFlow."
 show_downloads: false 
 google_analytics:
 theme: jekyll-theme-minimal
