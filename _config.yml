@@ -1,6 +1,6 @@
 title: PtychoFlow
 logo: /assets/img/logo.png
-description: "PtychoFlow: <br/> a ptychography framework built on TensorFlow."
+description: "PtychoFlow: a ptychography framework built on TensorFlow."
 show_downloads: false 
 google_analytics:
 theme: jekyll-theme-minimal
