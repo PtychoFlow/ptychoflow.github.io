@@ -15,7 +15,11 @@ Follow [this guide for installation and dependencies](./installation.html).
 
 Follow [this page for documentation](./documentation.html).
 
+## Showcasing our reconstruction dashboard
+
+TODO
+
 ## Contact
 
-Yifeng Shao - y.shao@tudelft.nl
+Yifeng Shao - y.shao@tudelft.nl  
 Jacob Seifert - j.seifert@uu.nl
